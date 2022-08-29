@@ -37,6 +37,10 @@ section {
 
 }
 
+.pra {
+    padding-right: 21%;
+}
+
 .top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
